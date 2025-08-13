@@ -1,0 +1,2606 @@
+[
+  {
+    "Name": "Tuna Gül",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Tuna Gül",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "839dca08-f10a-49b1-839f-fe4b2e7ad632"
+  },
+  {
+    "Name": "Ümran Özmen",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Ümran Özmen",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "70de11fd-5669-4924-889d-a10f312c5d2b"
+  },
+  {
+    "Name": "Ayten Mutlu",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Ayten Mutlu",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "2d7449a9-c76d-4a6d-ba03-5ae805deb60e"
+  },
+  {
+    "Name": "Sibel Kılıçaslan",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Sibel Kılıçaslan",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Mugla",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "60c575e5-638c-4cd2-8837-db3c51a6025a"
+  },
+  {
+    "Name": "Esra Göker",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Esra Göker",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "ddba1aaa-f454-4c19-8780-108983e50323"
+  },
+  {
+    "Name": "Tuğrul Atay",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Tuğrul Atay",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "01cabf3c-65ce-406f-8eb6-0b36e3bc015a"
+  },
+  {
+    "Name": "Hüseyin Üskül",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Hüseyin Üskül",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Antalya",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "75abca19-9049-4fd8-be33-7f1faf079892"
+  },
+  {
+    "Name": "Osman Yağmur",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Osman Yağmur",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "a91c1c30-5bd1-452c-9f13-4c90a5ca5703"
+  },
+  {
+    "Name": "Ülkü Ayberk",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Ülkü Ayberk",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "f471a4fc-d566-4491-94c2-11f2329e74ab"
+  },
+  {
+    "Name": "İbrahim Etem Pişkin",
+    "Title": "Prof. Dr.",
+    "Specialty": "",
+    "ClinicName": "Prof. Dr. İbrahim Etem Pişkin",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Zonguldak",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "c63ae7d6-3042-49c9-9913-75a6d8e403ad"
+  },
+  {
+    "Name": "Şadi İdem",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Şadi İdem",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Eskisehir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "6e18a279-54a0-4430-8029-d03fcb1df79d"
+  },
+  {
+    "Name": "Sabahattin Karakaya",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Sabahattin Karakaya",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "ac59b8e8-b847-47aa-bf52-3aaba8db5276"
+  },
+  {
+    "Name": "Cevriye Kübra Cenkçi",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Cevriye Kübra Cenkçi",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.8",
+    "doctorID": "f5015734-62fa-4b9b-a21e-460d8520ef40"
+  },
+  {
+    "Name": "Mehmet Çağlar",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Mehmet Çağlar",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.3",
+    "doctorID": "9bd98ca5-3e88-438d-96f5-c6f6b0b4b775"
+  },
+  {
+    "Name": "Muhammed Hallak",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Muhammed Hallak",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "87011693-d8c1-45b9-9c57-08b5dc86c266"
+  },
+  {
+    "Name": "Murat Cömert",
+    "Title": "Yrd. Doç. Dr.",
+    "Specialty": "",
+    "ClinicName": "Yrd. Doç. Dr. Murat Cömert",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "ee479cdf-5054-4673-ab14-b43a603a92d2"
+  },
+  {
+    "Name": "Efsun Sızmaz",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Efsun Sızmaz",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Adana",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "57176984-4569-4133-87f3-ff12666286af"
+  },
+  {
+    "Name": "Semih Demirkıran",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Semih Demirkıran",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Adana",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "13d771e8-bdfd-414d-8afa-e44640801f80"
+  },
+  {
+    "Name": "Yaşar Hüseyin Onganlar",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Yaşar Hüseyin Onganlar",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "cd6aa732-f5e5-457d-a00d-9b4a80b0e452"
+  },
+  {
+    "Name": "Erdal Erginer",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Erdal Erginer",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "e57e963d-05b4-4213-aa18-d333c3264f75"
+  },
+  {
+    "Name": "Sibel Spinu",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Sibel Spinu",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "bfc77b8f-f55d-42fa-ab4c-12c017f289a7"
+  },
+  {
+    "Name": "Aydın Çelik",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Aydın Çelik",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.9",
+    "doctorID": "d97ce378-c597-45d1-b1e7-8c92d8a65802"
+  },
+  {
+    "Name": "Turgay Baz",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Turgay Baz",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "8eea54ff-8529-4859-a57a-c81d7b8e580a"
+  },
+  {
+    "Name": "Merve Ateşoğlu",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "8c3986cf-1583-48f4-80a0-2dc207953348"
+  },
+  {
+    "Name": "Gülay Bilgin",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Gülay Bilgin",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "72ddf37b-6acf-4037-a5d3-815acd2d6dae"
+  },
+  {
+    "Name": "Münevver Uluba",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Münevver Uluba",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "e4680504-fb93-4b34-83d4-5df904759600"
+  },
+  {
+    "Name": "Esra Kezer",
+    "Title": "Dr. Öğr. Üyesi",
+    "Specialty": "",
+    "ClinicName": "Dr. Öğr. Üyesi Esra Kezer",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "a18ca73c-f7e0-48fa-82bc-5481e4745fd1"
+  },
+  {
+    "Name": "Veysi Akbey",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Veysi Akbey",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Mersin",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "01e4de06-fa64-4089-aca9-ebd975f825aa"
+  },
+  {
+    "Name": "Bilge  Kayıran",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Bilge  Kayıran",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "f1703960-eebb-4d59-9d63-baa0bbbaa472"
+  },
+  {
+    "Name": "Fahri Ovalı",
+    "Title": "Prof. Dr.",
+    "Specialty": "",
+    "ClinicName": "Prof. Dr. Fahri Ovalı",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "35841b61-662d-4c48-b8ba-4fd6444552fe"
+  },
+  {
+    "Name": "Tülin Köksal",
+    "Title": "Doç. Dr.",
+    "Specialty": "",
+    "ClinicName": "Doç. Dr. Tülin Köksal",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "11fefa25-4a5f-4573-aed6-7f414fd6592b"
+  },
+  {
+    "Name": "Muhammet Mesut Nezir Engin",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Muhammet Mesut Nezir Engin",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Sakarya",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "91cadbf7-c67f-4b6a-8c9c-154b997d56e7"
+  },
+  {
+    "Name": "Osman GÖNÜLAL",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Osman GÖNÜLAL",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Sivas",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "b99a9471-c23d-427b-8db5-46dea44debca"
+  },
+  {
+    "Name": "Nuriye Ayça Gül",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Nuriye Ayça Gül",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "57626c0f-26d3-4d58-9c7e-c645726f895e"
+  },
+  {
+    "Name": "Gulnar Karimova",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Gulnar Karimova",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "91b23674-5c01-472e-8ab1-e280157230fa"
+  },
+  {
+    "Name": "Necip Dönmezbilek",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Necip Dönmezbilek",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "7d563e7c-def4-4695-8b90-d6825bed6010"
+  },
+  {
+    "Name": "Yusuf Büyükpınarbaşılı",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "710907cd-0042-4cde-9dd6-29457ebf58b0"
+  },
+  {
+    "Name": "Mehmet Soner Sarmaşık",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Mehmet Soner Sarmaşık",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "9259a9c9-9fe7-4351-8641-03a6307aeefe"
+  },
+  {
+    "Name": "Sevda Erhan",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Sevda Erhan",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.8",
+    "doctorID": "ba34b4e1-5aae-498a-9317-b0c06287b026"
+  },
+  {
+    "Name": "Nilgün Dağdeviren (Demir)",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Nilgün Dağdeviren (Demir)",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Mersin",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "ee4351d9-99e6-400a-8663-4235653b6294"
+  },
+  {
+    "Name": "Süreyya Paksoy",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Süreyya Paksoy",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "8a46f3b5-7cca-4fd9-ac44-0309dcf48b33"
+  },
+  {
+    "Name": "Müşkinaz Karımova",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Müşkinaz Karımova",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "2a23d1ed-6863-4490-a752-d2f20e03a204"
+  },
+  {
+    "Name": "İbrahim Yakut",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Eskisehir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "06682fa5-4bb1-4a30-8681-2cf5d2ce71e1"
+  },
+  {
+    "Name": "Asuman Kıral",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Asuman Kıral",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "9848cc1d-a274-4bcb-ab16-cd31d846d951"
+  },
+  {
+    "Name": "Ayşegül Ersoy",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Ayşegül Ersoy",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "b19f0525-ad86-428c-b1c5-5501cf426988"
+  },
+  {
+    "Name": "Canan Günaydın Nur",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Canan Günaydın Nur",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Kocaeli",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "a32a99a7-5fd4-4ab3-9e9f-833b9433e7f3"
+  },
+  {
+    "Name": "Veysel Öz",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Veysel Öz",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Tekirdag",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "81e2b2f3-e52c-48ef-82d5-1dbe8d4a4d35"
+  },
+  {
+    "Name": "Mümine Hacıoğlu",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Mümine Hacıoğlu",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "35caf641-ed2b-45b2-b259-fa27b010578b"
+  },
+  {
+    "Name": "Ünsal Oktay",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Ünsal Oktay",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Antalya",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "60872424-0ad6-473b-920e-9da445598114"
+  },
+  {
+    "Name": "Selma Aydın",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Selma Aydın",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.9",
+    "doctorID": "1d0795db-8228-4e69-9d69-fcacd61c517f"
+  },
+  {
+    "Name": "Sinem Gündüz",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Sinem Gündüz",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "57bedf81-240e-4879-80b9-08414cc67f60"
+  },
+  {
+    "Name": "Ferhat Demir",
+    "Title": "Doç. Dr.",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "b6981ef2-df05-4b91-b30d-661d4c876dcd"
+  },
+  {
+    "Name": "Murat Çağlar",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Murat Çağlar",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Kayseri",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "916318a0-2432-45f5-9ee8-347e201731ee"
+  },
+  {
+    "Name": "Özlem Gürcü",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Özlem Gürcü",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Mugla",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "1345a7ef-63d8-496b-9425-e67568280b40"
+  },
+  {
+    "Name": "Ahmet Uçar",
+    "Title": "Dr.",
+    "Specialty": "",
+    "ClinicName": "Dr. Ahmet Uçar",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "9f5efcbd-1239-485b-8e60-be447e8d6e5e"
+  },
+  {
+    "Name": "Adem Koçak",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Adem Koçak",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Karabuk",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "44acbf13-4737-412c-a339-a0e7f5ec3cbc"
+  },
+  {
+    "Name": "Pınar Karadeniz",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Pınar Karadeniz",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "8f4da077-1d06-4150-b0e5-80ef83d179bc"
+  },
+  {
+    "Name": "Levent Uslu",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Levent Uslu",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "73713c75-9b2a-4720-8d93-5e327fc5d3d0"
+  },
+  {
+    "Name": "Mustafa Kürşad Öztürk",
+    "Title": "Prof. Dr.",
+    "Specialty": "",
+    "ClinicName": "Prof. Dr. Mustafa Kürşad Öztürk",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Kayseri",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "a4343125-471f-4a71-9629-9cd95c71367c"
+  },
+  {
+    "Name": "Çağrı Turan",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Çağrı Turan",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bolu",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "1074f570-2db8-4896-9c4e-d0f627922fdb"
+  },
+  {
+    "Name": "Şeref Olgar",
+    "Title": "Prof. Dr.",
+    "Specialty": "",
+    "ClinicName": "Prof. Dr. Şeref Olgar",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Kahramanmaras",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "969c5e82-3313-4a09-8657-2fa13df4771a"
+  },
+  {
+    "Name": "Bertan Karaboğa",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Bertan Karaboğa",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "a8222c19-9a9c-4476-9818-0f9d34bce4d9"
+  },
+  {
+    "Name": "Arzu Özgeneci Öngün",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Arzu Özgeneci Öngün",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "b59b1f77-4c3b-4233-b322-fd40462ed52b"
+  },
+  {
+    "Name": "Melike Özberk Koç",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Melike Özberk Koç",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "18b76588-a0d3-459a-b3d1-be693f5d1c97"
+  },
+  {
+    "Name": "Baskın Kocabaş",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Baskın Kocabaş",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "0d40cd21-d3e1-4934-8dfa-c5d1d14f5552"
+  },
+  {
+    "Name": "Leyla Yolar",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Leyla Yolar",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "0f9e86f4-6ec5-456f-8ff3-e1742dc25696"
+  },
+  {
+    "Name": "Ali Muslu",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Ali Muslu",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Mugla",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "d28ef2bf-9bfc-4113-9e03-e15c519d6371"
+  },
+  {
+    "Name": "Ahu Özşen",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Ahu Özşen",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.8",
+    "doctorID": "d26eb05c-19eb-431a-9c9b-cc56a3b3c51d"
+  },
+  {
+    "Name": "Orhan Cura",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Orhan Cura",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "41b7c344-0268-4651-9b14-5904687d5fd7"
+  },
+  {
+    "Name": "Nüşabe Abdullayeva",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Nüşabe Abdullayeva",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "bfc746f1-1023-42b6-a8cd-d43dfcd2ad9a"
+  },
+  {
+    "Name": "Emel Öçal",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "019e2b80-9cee-438b-ab49-6f0b158c57ff"
+  },
+  {
+    "Name": "Bilge Ateş",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Bilge Ateş",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Antalya",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "d5915eed-afc0-4bdd-b24e-160ecf95042c"
+  },
+  {
+    "Name": "Hüseyin Zafer Çapar",
+    "Title": "Dr. Öğr. Üyesi",
+    "Specialty": "",
+    "ClinicName": "Dr. Öğr. Üyesi Hüseyin Zafer Çapar",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "06c0c73e-bad5-4601-a5db-1d4c10df0789"
+  },
+  {
+    "Name": "İsmail Gönen",
+    "Title": "Dr. Öğr. Üyesi",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "e94c6e6b-5622-4ef0-9b04-ab6a52bcd913"
+  },
+  {
+    "Name": "Eylem Sevinç",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Eylem Sevinç",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "8e3c1df0-1df2-44e7-9e6e-420d988707d5"
+  },
+  {
+    "Name": "Medya Namdar",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Medya Namdar",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "80c1de3a-a803-4eb0-8062-4448f3e7dc79"
+  },
+  {
+    "Name": "Nureddin Vurgun",
+    "Title": "Doç. Dr.",
+    "Specialty": "",
+    "ClinicName": "Doç. Dr. Nureddin Vurgun",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.9",
+    "doctorID": "721dae9b-0f8e-4771-b8fc-4ee65017f14e"
+  },
+  {
+    "Name": "Cengizhan Elmas",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Cengizhan Elmas",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "4dc49eb5-1e13-4b79-81eb-17a1c464ead1"
+  },
+  {
+    "Name": "Melek Özbenli",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Melek Özbenli",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "4b9ba6e3-e0bc-4867-acfc-bc74587a053d"
+  },
+  {
+    "Name": "Adem Canan",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Adem Canan",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Van",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "bb15debe-3114-4a3d-a76c-e092c0cf8d3b"
+  },
+  {
+    "Name": "Muhammed Selçuk Sinanoğlu",
+    "Title": "Yrd. Doç. Dr.",
+    "Specialty": "",
+    "ClinicName": "Yrd. Doç. Dr. Muhammed Selçuk Sinanoğlu",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Malatya",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "d38dcb15-436d-42e1-bae0-b5bf7aabb9b5"
+  },
+  {
+    "Name": "Aydın Tunç",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Aydın Tunç",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "495c2ea9-6236-444b-8af5-cd226a044644"
+  },
+  {
+    "Name": "Tuğçe Tülümen",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Tuğçe Tülümen",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Antalya",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "acc909bc-1d65-4c3c-be50-17aa408ae837"
+  },
+  {
+    "Name": "Serhat Kılıç",
+    "Title": "Dr. Öğr. Üyesi",
+    "Specialty": "",
+    "ClinicName": "Dr. Öğr. Üyesi Serhat Kılıç",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "7c8dd189-f4b8-4e9b-9541-245bccf18897"
+  },
+  {
+    "Name": "Şule Yıldırım",
+    "Title": "Doç. Dr.",
+    "Specialty": "",
+    "ClinicName": "Doç. Dr. Şule Yıldırım",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Usak",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "ed85fe6d-2d58-412d-8353-0cee7f4b2c5e"
+  },
+  {
+    "Name": "Defne Çöl",
+    "Title": "Dr. Öğr. Üyesi",
+    "Specialty": "",
+    "ClinicName": "Dr. Öğr. Üyesi Defne Çöl",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "cea0f73a-0fe3-4dcb-8140-9324b221c133"
+  },
+  {
+    "Name": "Pelin Akgün Gerçek",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Pelin Akgün Gerçek",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "c1e6ca34-c745-4110-a68d-2dca15a86fe4"
+  },
+  {
+    "Name": "Gökçe Yegül Gülnar",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "7a890f57-6e8c-434c-8bf9-1ca35c93f4c6"
+  },
+  {
+    "Name": "Hümeyra Doğan",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Hümeyra Doğan",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "d2ad26bc-63dc-439a-8c5b-df175229b23f"
+  },
+  {
+    "Name": "Ozan Koç",
+    "Title": "Dr.",
+    "Specialty": "",
+    "ClinicName": "Dr. Ozan Koç",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "c4b84c1f-8342-4418-bd4a-b8a0e5e7494c"
+  },
+  {
+    "Name": "Gökalp Başbozkurt",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Gökalp Başbozkurt",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Mugla",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "31283098-57e3-497e-8f16-b3d044a814e0"
+  },
+  {
+    "Name": "Ebru Ayaş",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Ebru Ayaş",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Adana",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "f0683f2a-17e1-4e12-8d68-08484796c43b"
+  },
+  {
+    "Name": "Fikret İşbilir",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Fikret İşbilir",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "eaf1b711-ecdc-496d-9dc3-51becf25f6d7"
+  },
+  {
+    "Name": "Eyüp Aslan",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Eyüp Aslan",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Denizli",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "614718e0-5d55-447d-9382-e13e35f28633"
+  },
+  {
+    "Name": "Haluk Esmeray",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Haluk Esmeray",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Tekirdag",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "d9724953-6ac4-48c5-ac6e-9ca2865c9feb"
+  },
+  {
+    "Name": "Tanzer İlhanoğlu",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Tanzer İlhanoğlu",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "3e75eb01-fb1b-4ad3-9a11-a682e229ef82"
+  },
+  {
+    "Name": "Erdem Uzunoğlu",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Erdem Uzunoğlu",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "ba9c28b3-1ffc-4beb-8211-88af3a573006"
+  },
+  {
+    "Name": "Metin Trabzon",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Metin Trabzon",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Sakarya",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.8",
+    "doctorID": "d7363a9e-e006-4864-a4b8-9d4e31e3e403"
+  },
+  {
+    "Name": "Nazile Hasanova",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Nazile Hasanova",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "e3db1a69-9eb0-4598-834a-043db1e67ae9"
+  },
+  {
+    "Name": "Berna KAMACI GÜRSOY",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Berna KAMACI GÜRSOY",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Canakkale",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "2ee1840a-dea5-4045-976b-5a98fd917514"
+  },
+  {
+    "Name": "Güner Banu Kayabaşı",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Güner Banu Kayabaşı",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.9",
+    "doctorID": "a0902faa-d341-4c3f-b1eb-a49f6985f2d4"
+  },
+  {
+    "Name": "Feyzullah Yesevi",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "0929402c-f53f-4cdd-b723-32695da41911"
+  },
+  {
+    "Name": "Fatih Karaokur",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Fatih Karaokur",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Kahramanmaras",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "e46a9cc5-8e27-4fa2-87c1-f69327aaa126"
+  },
+  {
+    "Name": "Vilda Barlas",
+    "Title": "Yrd. Doç. Dr.",
+    "Specialty": "",
+    "ClinicName": "Yrd. Doç. Dr. Vilda Barlas",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "8fb15f79-8f8f-447a-aedd-dedfc898de8c"
+  },
+  {
+    "Name": "Ayşe Zengin Turan",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Ayşe Zengin Turan",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Kibris",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.9",
+    "doctorID": "60317106-ac31-491a-941e-2bc9b3fd1eca"
+  },
+  {
+    "Name": "A. Duygu Dönmez",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. A. Duygu Dönmez",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "bb29b664-dd88-4041-87b5-7ca424870505"
+  },
+  {
+    "Name": "Ayşegül Zenginler",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "5d43b996-4560-4017-9045-0fe1e20f8f11"
+  },
+  {
+    "Name": "Mahmut Ekici",
+    "Title": "Dr. Öğr. Üyesi",
+    "Specialty": "",
+    "ClinicName": "Dr. Öğr. Üyesi Mahmut Ekici",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Sivas",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "1d87ad3c-f22e-4243-af3e-eedc19756e81"
+  },
+  {
+    "Name": "Arzu Gebeşçe",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Arzu Gebeşçe",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "86674b30-de4e-4feb-9e7a-5a361ef0e959"
+  },
+  {
+    "Name": "Sabriye Müge Kesgin",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Sabriye Müge Kesgin",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Antalya",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "5e467e00-10ee-40cc-81a5-4d562d706ab2"
+  },
+  {
+    "Name": "Belkıs Kütük",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Belkıs Kütük",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "9bbd1365-1a21-47a4-9ec1-6bbab59bf36d"
+  },
+  {
+    "Name": "Süreyya Gökçe Ergen Kiray",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Süreyya Gökçe Ergen Kiray",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Manisa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "63952ac6-1528-4edc-848d-7ed1338f2c40"
+  },
+  {
+    "Name": "Emrullah Yüksel",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "87b3e29d-a5d8-45e7-b140-63d7151ae5c0"
+  },
+  {
+    "Name": "Emrah Can",
+    "Title": "Doç. Dr.",
+    "Specialty": "",
+    "ClinicName": "Doç. Dr. Emrah Can",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "790e9a35-3860-4aab-a400-07ef7d62debb"
+  },
+  {
+    "Name": "Binod Şah",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Binod Şah",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "be13425b-5e12-473c-b4f5-a08ee17dd86c"
+  },
+  {
+    "Name": "Devran Demir",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Devran Demir",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "5f516d92-6634-481f-aab1-49a7cf71fa98"
+  },
+  {
+    "Name": "Hidayet Katipoğlu",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Hidayet Katipoğlu",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "afb13b60-a693-4305-a2c9-3de8e33ec466"
+  },
+  {
+    "Name": "Mustafa Kemal Sağında",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Adana",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "238b104f-daea-4b73-8cec-658207c2f8ad"
+  },
+  {
+    "Name": "Özge Akça",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Özge Akça",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "a8669e52-b0b7-40b8-9715-c090b4647809"
+  },
+  {
+    "Name": "Mustafa Akçakuş",
+    "Title": "Prof. Dr.",
+    "Specialty": "",
+    "ClinicName": "Prof. Dr. Mustafa Akçakuş",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Antalya",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "923ea116-4996-49bb-a4c8-9d6b515e628c"
+  },
+  {
+    "Name": "Münevver Bilgin",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Münevver Bilgin",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.9",
+    "doctorID": "083f3d28-3aec-4572-98f4-bd3476d3468f"
+  },
+  {
+    "Name": "Tarık Koç",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Tarık Koç",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Diyarbakir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "772ca637-33fd-4d1d-929d-26f8f320935a"
+  },
+  {
+    "Name": "Nilüfer Toprakçı",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Nilüfer Toprakçı",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "3035a57a-b819-4361-be6d-c7d14acfc07a"
+  },
+  {
+    "Name": "Psk. Deniz Erden",
+    "Title": "",
+    "Specialty": "",
+    "ClinicName": "Psk. Deniz Erden",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "91baf251-800a-4ccc-b94e-f3dcc783fbaa"
+  },
+  {
+    "Name": "Hüseyin İngöl",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Hüseyin İngöl",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "50b9f220-cea9-4606-92ea-22006568135b"
+  },
+  {
+    "Name": "Büşra Cihan Bozkurt",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Büşra Cihan Bozkurt",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "b66c3eba-376f-448b-a5e0-b0384a2ec563"
+  },
+  {
+    "Name": "Kemal Süleyman",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Kemal Süleyman",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Trabzon",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "b17f5a29-22e4-4039-9a8e-79d697abd538"
+  },
+  {
+    "Name": "Özden Durmuş Gönültaş",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Özden Durmuş Gönültaş",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "a5d720db-3caf-40f3-afdc-ae936e9eea16"
+  },
+  {
+    "Name": "Hacer Kara",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Hacer Kara",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "f6c24d36-10fe-41a6-9edc-ff30da9910f3"
+  },
+  {
+    "Name": "Muzaffer Ocak",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Muzaffer Ocak",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "92a174f4-2e1d-4bc3-a597-1bee419f0e36"
+  },
+  {
+    "Name": "Deniz Tamtekin",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Deniz Tamtekin",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "5347b0e4-3d5a-4e14-a9ed-751c5111ba70"
+  },
+  {
+    "Name": "Serhat Özdemir",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Serhat Özdemir",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "34f9f9f0-252c-4066-a3e7-0cd4adaf7869"
+  },
+  {
+    "Name": "Mehmet Acar",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Mehmet Acar",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Tekirdag",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.8",
+    "doctorID": "2d67e553-6e99-408e-a174-9c7b01abaac1"
+  },
+  {
+    "Name": "Deniz Oral",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "d0c9efdc-66da-4461-beef-a06de329e869"
+  },
+  {
+    "Name": "Olcay Şah",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Olcay Şah",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Antalya",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "61ebebf1-74e2-495f-b577-39cc87f85bcf"
+  },
+  {
+    "Name": "Gözde Kır",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Gözde Kır",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Hatay",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "d277a72e-0545-4395-9b2e-68955391bdcd"
+  },
+  {
+    "Name": "Füsun Çelikkol",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Füsun Çelikkol",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Kocaeli",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "00b3e945-1217-4c61-9180-f4db9883e2ab"
+  },
+  {
+    "Name": "Ayça Aslan Kıykım",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Ayça Aslan Kıykım",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "0394fc53-dc7f-4408-b630-ff2bdeb69a22"
+  },
+  {
+    "Name": "Reyhan Aydınlıyurt",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Reyhan Aydınlıyurt",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Tekirdag",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "1edf2a75-a6b4-43d4-a474-e6c7b817a013"
+  },
+  {
+    "Name": "Nihal Yıldız",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Nihal Yıldız",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Mus",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "5c5ad0f8-f661-45f7-a094-1c563893f3f2"
+  },
+  {
+    "Name": "Dilşah Önerli",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Dilşah Önerli",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "e3ed4cb4-7883-4872-bd5b-d67d50983263"
+  },
+  {
+    "Name": "Yasemin Kınalı",
+    "Title": "Dr.",
+    "Specialty": "",
+    "ClinicName": "Dr. Yasemin Kınalı",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Konya",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "2198a4cd-d6a0-4c56-a0c0-4338318772f4"
+  },
+  {
+    "Name": "Osman Dereli",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Osman Dereli",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Nevsehir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "0f589ae7-873f-4796-aaa3-d3584f448c2a"
+  },
+  {
+    "Name": "Gönül Şıkol Çamlıca",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Gönül Şıkol Çamlıca",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "9ecddf75-815e-437f-a376-798f2f023802"
+  },
+  {
+    "Name": "Tezer Kutluk",
+    "Title": "Prof. Dr.",
+    "Specialty": "",
+    "ClinicName": "Prof. Dr. Tezer Kutluk",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "cb26a527-cb40-41c4-aaa4-38238744bf31"
+  },
+  {
+    "Name": "Sezin Aslan",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Sezin Aslan",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Kayseri",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "b4927320-c6ca-4e5a-b073-fbe9a26ccbcd"
+  },
+  {
+    "Name": "Erbil AYDEMİR",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Erbil AYDEMİR",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "ea91f2e6-b778-4289-be6d-83ace08ced4b"
+  },
+  {
+    "Name": "Selda Aytaç",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Selda Aytaç",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.9",
+    "doctorID": "8a466e1c-2fba-4dc7-8066-760751262c86"
+  },
+  {
+    "Name": "Gülcan Çelik",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Gülcan Çelik",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.9",
+    "doctorID": "07b8e881-6477-4505-a6da-cf7e255fd895"
+  },
+  {
+    "Name": "Koray Hacıoğlu",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Koray Hacıoğlu",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "2c4f012c-54e3-4530-8795-d4ba0dc0cd28"
+  },
+  {
+    "Name": "Seda Tunca",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Seda Tunca",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "a7e5aabc-7bdf-4943-8c38-397bf635dcd0"
+  },
+  {
+    "Name": "Erdem Gönüllü",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Erdem Gönüllü",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "9d059086-b1d6-4d23-ae04-8c154c62b50b"
+  },
+  {
+    "Name": "Ebubekir Akyüz",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Ebubekir Akyüz",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Aksaray",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "7a91ec71-394f-49e5-b4b9-f0657d0aca29"
+  },
+  {
+    "Name": "Hüseyin Güvenç",
+    "Title": "Prof. Dr.",
+    "Specialty": "",
+    "ClinicName": "Prof. Dr. Hüseyin Güvenç",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "cb0cc141-28ee-4eb6-9783-3ed146ddc990"
+  },
+  {
+    "Name": "Birol Namık Merih",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "a134debe-5760-4db6-922c-e15c110db4de"
+  },
+  {
+    "Name": "Duygu Ameneh Garavi",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Duygu Ameneh Garavi",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.9",
+    "doctorID": "bd80e57f-a47b-4de1-89b9-be758a910df4"
+  },
+  {
+    "Name": "Fatih Demircioğlu",
+    "Title": "Doç. Dr.",
+    "Specialty": "",
+    "ClinicName": "Doç. Dr. Fatih Demircioğlu",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "ee62203b-af08-4940-b316-535c16f48923"
+  },
+  {
+    "Name": "Onur Balcı",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Onur Balcı",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Yalova",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "b8851034-85be-4f2b-b57a-9336f728b03b"
+  },
+  {
+    "Name": "Ceyda Cilasun",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Kayseri",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "49841c61-8225-4837-9dc4-8ab962c48f9c"
+  },
+  {
+    "Name": "İrem Hallaç",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. İrem Hallaç",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Ankara",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "92d833d4-d54a-48ef-82b3-41f999942204"
+  },
+  {
+    "Name": "Nurten Özkan Zarif",
+    "Title": "Dr.",
+    "Specialty": "",
+    "ClinicName": "Dr. Nurten Özkan Zarif",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Isparta",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "db85a7db-d3b0-47f9-9d3d-5fb61262e045"
+  },
+  {
+    "Name": "Hilal Koç Soner",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Hilal Koç Soner",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Konya",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.7",
+    "doctorID": "dc325f2c-a248-4b13-a37d-0be765ba64d7"
+  },
+  {
+    "Name": "Nuray Dinçer",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Nuray Dinçer",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "22227cf2-912a-4e8b-80a5-f3512cd2002b"
+  },
+  {
+    "Name": "Betül Akçanal",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Betül Akçanal",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Aydin",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "e4bc154c-0b6f-4021-a979-a73e5edd6741"
+  },
+  {
+    "Name": "Serdar Şahin",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Serdar Şahin",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "c0ba8b76-a44a-4ade-a51e-a1cf7db25bad"
+  },
+  {
+    "Name": "Bilge Tanrıkulu",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Bilge Tanrıkulu",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "22cdd845-a193-4b10-9ab1-4ae3e7399ef6"
+  },
+  {
+    "Name": "Serpil Can",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Serpil Can",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "24555210-5d70-4913-9132-ece6ed20cf8e"
+  },
+  {
+    "Name": "Meryem Şeniz Yüksel",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Meryem Şeniz Yüksel",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "ae407b0b-b747-4663-af18-249ce9d179eb"
+  },
+  {
+    "Name": "Sülin Oğrağ",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Sülin Oğrağ",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "abc7f070-34e6-4fd2-977e-fad563aca712"
+  },
+  {
+    "Name": "Mustafa Aydın",
+    "Title": "Dr.",
+    "Specialty": "",
+    "ClinicName": "Dr. Mustafa Aydın",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "f17dc060-cd2b-4023-af5d-2ed226c539b6"
+  },
+  {
+    "Name": "Özlem Okutan",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Özlem Okutan",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "38f8aa96-c79b-4628-a371-15470f812069"
+  },
+  {
+    "Name": "Gökhan Davutoğlu",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Gökhan Davutoğlu",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "8d59578b-193f-4211-b4ae-0e684487b94f"
+  },
+  {
+    "Name": "ibrahim hakkı Aktan",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. ibrahim hakkı Aktan",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "edd69a99-2d67-4b76-8caf-fb6a7fa20a78"
+  },
+  {
+    "Name": "Bengü Serpen",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Izmir",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "a62ab493-3175-4fe9-a926-6795dfdfce8e"
+  },
+  {
+    "Name": "Ayşe Güroğlu",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Ayşe Güroğlu",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Samsun",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "11198806-3bf5-4861-bb9d-c3e8d3810d12"
+  },
+  {
+    "Name": "Ali Eynalli",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Ali Eynalli",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Kocaeli",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "193f01e6-8706-4cec-9b52-0e24805aad70"
+  },
+  {
+    "Name": "Deniz Parlakgümüş",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Deniz Parlakgümüş",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Adana",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "d6fd7aed-270a-476f-be49-8b3263121fbc"
+  },
+  {
+    "Name": "Eray Yurtçu",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Eray Yurtçu",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "12e108a4-e3c1-4c9e-8064-0c2e2e2c88df"
+  },
+  {
+    "Name": "Mahya Sultan Tosun",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Mahya Sultan Tosun",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "4.8",
+    "doctorID": "e0962785-d665-4058-99c7-660ff20f4e80"
+  },
+  {
+    "Name": "Tuba Özdemir",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Tuba Özdemir",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "91628462-8f58-4ae7-b017-2373ed011ce9"
+  },
+  {
+    "Name": "Fatih Kılıçbay",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Kocaeli",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "41d0cc81-b444-4e10-bbe4-3ee4217e90cb"
+  },
+  {
+    "Name": "Müjgan Alikaşifoğlu",
+    "Title": "Prof. Dr.",
+    "Specialty": "",
+    "ClinicName": "Prof. Dr. Müjgan Alikaşifoğlu",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "73b78f87-77a2-48f7-8ac9-1d8df1ff5e64"
+  },
+  {
+    "Name": "Elif Yağlı",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. Elif Yağlı",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Istanbul",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "736fdcaa-fae4-491c-9488-c6ed526a52b9"
+  },
+  {
+    "Name": "Fahrettin Uysal",
+    "Title": "Prof. Dr.",
+    "Specialty": "",
+    "ClinicName": "Prof. Dr. Fahrettin Uysal",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Bursa",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "e73656a5-5873-4627-9a84-5ab4959ef889"
+  },
+  {
+    "Name": "Eren Yıldız",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Kastamonu",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "",
+    "doctorID": "a0c9eb6a-002d-4ea9-ad1e-00da464072da"
+  },
+  {
+    "Name": "İsmet Öncü",
+    "Title": "Uzm. Dr.",
+    "Specialty": "",
+    "ClinicName": "Uzm. Dr. İsmet Öncü",
+    "ClinicAddress": {
+      "Street": "",
+      "City": "Adana",
+      "Post Code": ""
+    },
+    "About": "",
+    "AverageReview": "5",
+    "doctorID": "11fdeb7c-0d6d-4705-89d4-8e2f50d935e0"
+  }
+]
