@@ -13,7 +13,7 @@ from peft import get_peft_model, LoraConfig, TaskType
 from huggingface_hub import login
 
 # Hugging Face login (gerekirse)
-login("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")
+login("ENTER YOUR TOKEN")
 
 # Ortam değişkenleri
 os.environ["TRITON_CACHE_DIR"] = "/home/data/triton_cache"
